@@ -1,0 +1,2 @@
+# Lung-Cancer-Analysis-Data-Cleaning-Tableau-Dashboard
+This project analyzes  lung cancer dataset &amp; visualizes global health trends using Tableau. The dashboard highlights patterns such as diagnosis trends, demographic differences, treatment impact, and geographic distribution help clinicians, researchers, and public health policymakers in understanding lung cancer risk factors and survival outcomes.
