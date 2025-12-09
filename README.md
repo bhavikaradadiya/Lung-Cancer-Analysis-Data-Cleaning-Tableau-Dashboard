@@ -58,3 +58,71 @@ Identifies that middle-aged groups show the highest number of cases.
 ### 1️⃣ Install Python Dependencies
 Use the following command:
 
+pip install -r requirements.txt
+
+### 2️⃣ Run the Cleaning Notebook
+Open:
+notebooks/LungCancerDatasetCleaning.ipynb
+
+This notebook performs:
+- Loading the raw dataset  
+- Executing all preprocessing steps  
+- Saving the cleaned dataset to:
+
+  /data/cleaned/Lung_Cancer_Cleaned.csv
+
+  
+### 3️⃣ Load the Dataset into Tableau
+1. Open **Tableau Public / Desktop**
+2. Connect to `Lung_Cancer_Cleaned.csv`
+3. Create calculated fields in Tableau (if needed):
+ - Age Group  
+ - Diagnosis Year  
+ - Treatment Duration  
+4. Build or explore the dashboard using the prepared charts
+
+### 4️⃣ View the Published Dashboard  
+👉 Live Tableau Link:  
+https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Lung_Cancer_Analysis_296/Story1
+
+---
+
+## 🛠 Technologies Used
+
+| Component | Technology |
+|----------|------------|
+| Data Cleaning | Python (Pandas, NumPy), Google Colab |
+| Visualization | Tableau Public |
+| Supporting Tools | Matplotlib, Seaborn, Jupyter Notebook |
+
+---
+
+## 🔗 Reference Links
+
+- 📘 Dataset: https://www.kaggle.com/datasets/amankumar094/lung-cancer-dataset  
+- 🧹 Data Cleaning (Colab): *(from your project appendix)*  
+- 📊 Tableau Dashboard: https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Lung_Cancer_Analysis_296/Story1  
+- 🗂 GitHub Project Page: https://github.com/users/bhavikaradadiya/projects/2/settings  
+
+---
+
+## 👩‍💻 Author
+**Bhavikaben Bavchandbhai Radadiya**  
+*Visualization and Storytelling Using Tableau – 2025*
+
+---
+
+## 📄 License
+This project is intended for academic and research purposes.  
+User must ensure compliance with data privacy and ethical guidelines.
+
+
+
+
+
+
+
+
+
+
+  
