@@ -2,5 +2,17 @@ Lung Cancer Analysis dataset is publically available.
 
 Dataset: https://www.kaggle.com/datasets/amankumar094/lung-cancer-dataset
 
+Patient_ID
+Age
+Gender
+Country
+Smoking_Status
+Diagnosis_Date
+Cancer_Stage
+Treatment_Type
+End_Treatment_Date
+Survival_Status
+
+
 The Dataset named Lung_Cancer.csv having 890,000 records. its volume and granularity make it suitable for analytical and visualization purposes. The dataset contains vivid aspects of lung cancer: age gender medical history lifestyle choices treatment outcomes.
 
